@@ -1,1 +1,1 @@
-# number-counting
+Programm which counts numbers forever.
